@@ -1,0 +1,509 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$lNMbn0V0UZaE.3b.OdY1p.P8qFmeNGg2i2Jyirgnp8KU548mXRSbW",
+      "id": 1,
+      "firstName": "Nguyễn",
+      "lastName": "Đức Nam",
+      "age": 28,
+      "gender": "male",
+      "address": "Thu Duc - HCM - Viet Nam",
+      "updatedAt": 1659928654818
+    },
+    {
+      "email": "jame@gmail.com",
+      "password": "$2a$10$bfM5Lbc6hQ68YSsHS5JXduyO6JbC9Wd1/lDO87Kh9lIHwePbMGtYi",
+      "id": 2,
+      "firstName": "Jame",
+      "lastName": "Lewist",
+      "age": 40,
+      "gender": "male",
+      "address": "Atlanta - US",
+      "updatedAt": 1659968091712
+    },
+    {
+      "email": "nam@gmail.com",
+      "password": "$2a$10$6BmG1.B.lFtqul7vkSO3l.96qJxJGDaOQsbN/Ui9hem//xn0MF0/2",
+      "id": 3
+    },
+    {
+      "email": "jame@gmail.com2",
+      "password": "$2a$10$jw3M4PMvAcIpZ7CRZvSGFOGycQSbtG1s2r1c3XLiRkA3xPyxYdrbe",
+      "id": 4
+    },
+    {
+      "email": "a@q.com",
+      "password": "$2a$10$8EHyO75h8FVpWvJZnlofROlc3uSPGvNX80tcjcJf7BwP42iZOcN8y",
+      "id": 5
+    }
+  ],
+  "ideas": [
+    {
+      "id": "1",
+      "title": "CrowdSpring",
+      "brief": "CrowdSpring is the \"marketplace for creative services\" where thousands of designers compete to deliver the design you want.",
+      "detail": "You can post your creative project, naming your own budget and deadline. Projects can include logos, business cards, brochures, buttons, icons, websites, stationary, illustrations, banners, etc.\r\n\r\nThen 15,000+ creatives can input ideas. You choose the ideas that are most relevant to you. If you don't get at least 25 entries, your money is refunded.\r\n\r\nCrowdSpring also has a contract to protect your ownership, that is available for free.",
+      "tag": "CrowdSpring",
+      "createdAt": 1551959270937,
+      "updatedAt": 1551959270937
+    },
+    {
+      "id": "2",
+      "title": "Edison Nation",
+      "brief": "No matter what your idea is or how developed it may be, we have the resources to bring it to life and the relationships to get it on store shelves.",
+      "detail": "We know that the best ideas don’t only come from big businesses or corporate design departments. Great ideas come from the minds of everyday people.\r\n\r\nJoin the Edison Nation Community. Find out why we’re the most trusted source for bringing product ideas to market. Are you ready to see your idea on store shelves?",
+      "tag": "Electric",
+      "createdAt": 1181505717580,
+      "updatedAt": 1181505717580
+    },
+    {
+      "id": "3",
+      "title": "Embrioo",
+      "brief": "This is the place where people post Rough ideas and other people gather in teams to develop them into 360o Business concepts. Anyone can join.",
+      "detail": "Where your spontaneous ideas become business concepts, which are then sold to corporations globally – to grow their business, revenue and profit. How cool is that right, but wait its a bit expensive though, but what about creating this thing virtually and also earning money from it rather than expense. This is what the main focus of other fantasy cricket apps out there like talking about some best ones like FSL11 ( www.fsl11.com ) is doing. No problems are solved but it gives a sense of satisfaction to the cricket freaks and now they can die peacefully once they had seen their favourite players playing from a single team.",
+      "tag": "Mobile app",
+      "createdAt": 1584601115650,
+      "updatedAt": 1584601115650
+    },
+    {
+      "id": "4",
+      "title": "Equity Owl",
+      "brief": "What is Equity Owl? Equity Own is a website that connects entrepreneurs with ideas to designers who can bring that idea to life in exchange for a piece of equity in the emerging companies.",
+      "detail": "Entrepreneurs are able to post their idea as well as a percentage equity offered to a skilled worker who can bring their idea to life.Everything is guarenteed through our universal Statement of work and Non disclosure which guarentee the transfer of equity in return for work done.\r\n\r\n\" Angel investing without money\"\r\n\r\nEXAMPLE: Post your app idea and offer 20% to any IOS programmer who programs it.\r\n\r\nEXAMPLE 2: Post your unique product idea and offer ( insert number ) % equity to a engineer to develop it.\r\n\r\nApp and website designers as well as engineers, business majors ,and countless other skilled developers and workers are the angel investors, trading their skills, time, and work for equity.\r\n\r\nBOTTOM LINE- Your idea gets created for free! You only pay percentage of equity to the designer",
+      "tag": "Web app",
+      "createdAt": 1503964619868,
+      "updatedAt": 1503964619868
+    },
+    {
+      "id": "5",
+      "title": "Online Dating-Algoritm",
+      "brief": "It will improve online dating for those who are ready for a long term relationship. ",
+      "detail": "The 5 year plan helps the people make a decision on if the other person has similar goals for future and advoid wasting maybe years in relationship because couples didn&apos;t comunicate from begining what goals they want to achive or what vision of life they have.i.e. If they want to bave a child or not, etc. which can be groundbreaking. <br>This algoritm should help individuals to match their lifestyle and aspirations with the other half.",
+      "tag": "Software app",
+      "createdAt": 1432134297018,
+      "updatedAt": 1432134297018
+    },
+    {
+      "id": "6",
+      "title": "Tax calculator",
+      "brief": "This app will calculate, how much tax the user needs to pay according to his income and ensure that the correct amount of tax is always paid.",
+      "detail": "Moreover, if the app can generate invoices, then your business financial hassles become much easier. You can calculate your taxes as well as generate invoices for all your business transactions. Do you see food that looks delicious on social media but wonder what meal that is on the menu? Or perhaps you go to a restaurant, see their menu and wonder what to order? You have no idea how the food might look, the portioning or anything beyond what they tell you from the menu. Some restaurants have images of their food but not everything on the menu is displayed. <br><br>The idea would be to create a full stack application where users could document what they eat with an image, time",
+      "tag": "Finance",
+      "createdAt": 1616817599724,
+      "updatedAt": 1616817599724
+    },
+    {
+      "id": "7",
+      "title": "Money Manager",
+      "brief": "A mechanism that allows its users to securely, easily and promptly send, receive and finance payments online.",
+      "detail": "Do you often have idle cash in your bank account or hand and you are confused about the best way to spend it? Can you think about an app as intelligent as you that can help in finding the right ways to spend your money? It either scans your account details or provides the most appropriate solutions to spend the amount of money that you have entered. Although allowing an app to view your bank account details is a privacy concern but it can be proficiently achieved with strong encryption practices.",
+      "tag": "Finance",
+      "createdAt": 1582302505222,
+      "updatedAt": 1582302505222
+    },
+    {
+      "id": "8",
+      "title": "Fantasy Gaming",
+      "brief": "Just thinking about starting my own IPL like series where i can buy all the teams and make the combination of the players i want.",
+      "detail": "How cool is that right, but wait its a bit expensive though, but what about creating this thing virtually and also earning money from it rather than expense. This is what the main focus of other fantasy cricket apps out there like talking about some best ones like FSL11 ( www.fsl11.com ) is doing. No problems are solved but it gives a sense of satisfaction to the cricket freaks and now they can die peacefully once they had seen their favourite players playing from a single team.",
+      "tag": "Web app",
+      "createdAt": 1148620041050,
+      "updatedAt": 1148620041050
+    },
+    {
+      "id": "9",
+      "title": "Website that connects gamers",
+      "brief": "The Idea behind this website would be that you could sign up using steam, origin etc.",
+      "detail": "Ever bought a new game and where looking for a partner to play with? The Idea behind this website would be that you could sign up using steam, origin etc. Add All games you own to a &quot;my games&quot; section. After that you would be ready to go. Simply select which game you want to play and the website would display a list of people that are playing this game right now. You could even go further and let the usere choose if he wants to play on console or pc. Of course there would be some more features like a chat and maybe a feed where you could share your best moments while gaming",
+      "tag": "Web app",
+      "createdAt": 1546677859124,
+      "updatedAt": 1546677859124
+    },
+    {
+      "id": "10",
+      "title": "Mastermind Group App",
+      "brief": "An app where people can meet other like minded people and create master groups of up to 10 people and keep each other accountable",
+      "detail": "Do you see food that looks delicious on social media but wonder what meal that is on the menu? Or perhaps you go to a restaurant, see their menu and wonder what to order? You have no idea how the food might look, the portioning or anything beyond what they tell you from the menu. Some restaurants have images of their food but not everything on the menu is displayed. <br><br>The idea would be to create a full stack application where users could document what they eat with an image, time",
+      "tag": "Desktop app",
+      "createdAt": 1088000335525,
+      "updatedAt": 1088000335525
+    },
+    {
+      "id": "11",
+      "title": "Lie or not",
+      "brief": " The idea of a smartphone app, which by the tone of voice and by the video conversation and facial expressions defines lying to you or not when dealing with you. ",
+      "detail": "I wonder how many people are interested in you cheat or not, in conversation. The idea of a smartphone app, which by the tone of voice and by the video conversation and facial expressions defines lying to you or not when dealing with you. There are basic criteria on which with the big share of probability it is possible to identify a lie. It is clear that if we are talking about the intonation of the voice, then the user must first pose simple questions that make no sense to lie to the opponent, then turns on the verification mode and asks already important questions that he wants to get a truthful answer, and the application analyzing the changes in intonation based on the recorded neutral speech earlier, notifies»…",
+      "tag": "Mobile app",
+      "createdAt": 1458399120503,
+      "updatedAt": 1458399120503
+    },
+    {
+      "id": "12",
+      "title": "Online library",
+      "brief": "For a small price(per hour price) , one can read a digital version of latest magazine/book he wants to read.",
+      "detail": "For a small price(per hour price) , one can read a digital version of latest magazine/book he wants to read. Useful for people who don&apos;t want to spend their money on buying books / magazines but want to read anyway. Borrowing of books can also be made available fos subscribers. Starting up a company which will design user interfaces and operating systems which will be accessible by all it will have voice recognition and projectors which will allow users to control things in 3-D mode.",
+      "tag": "Web app",
+      "createdAt": 1069479678921,
+      "updatedAt": 1069479678921
+    },
+    {
+      "id": "13",
+      "title": "Healthcare aggregator",
+      "brief": "The idea is to categorically list hospitals, nursing homes on the basis of their ratings/ranking (5 ????, 4 ????, etc) on a single platform.",
+      "detail": "Stabilisation of prices for the benefits of end user, Oyo/treebo like model for healthcare. Nowadays many builder and engineer use cheap construction material to earn more money but they can&apos;t think about the accident happen so I want to build a site where all the construction material made from industry directly come to the place within a click. Before delivering the items this material is checked by professional engineer his will reduce time and money",
+      "tag": "Mobile app",
+      "createdAt": 1595611446661,
+      "updatedAt": 1595611446661
+    },
+    {
+      "id": "14",
+      "title": "Interest for Life",
+      "brief": "The model of this charity is to have a &apos;base account&apos; and any donations to Interest for Love would contribute to this base account.",
+      "detail": "Any interest earned off of this base account would then go towards the project. Money would not be earned on interest only from donnors since all interest will be going into funding the projects which &apos;interest for love&apos; would support financially. Inner workings of interest for love would operate very much like a money managing company in that they would be investing to create the most interest off of the base, which would grow every year through donations. The idea started in my head when I was thinking about how to fix the US health care system and if I were to win the lottery I would set up a base account and any interest earned from the base account would then go towards supporting free mental health care for veterans. As interest on the base grows this would eventually cover all health care costs and include other people such as those who served in the peace core, and those peoples children. I would love to donate to a charity that is structured this way since it is sustainable and smart.",
+      "tag": "Software app",
+      "createdAt": 1004075256289,
+      "updatedAt": 1004075256289
+    },
+    {
+      "id": "15",
+      "title": "Luminos Pave",
+      "brief": "A new way to illuminate the world.... Utilizing tritium betalights (a light source that emits a soft glow without electricity for 15 to 20 years) to create a more effective light. ",
+      "detail": "he main components to this are the beta light(s), the lens and the filler. Beta light surrounded by magnified lens then in between is a bleach / water solution to further magnify brightness and kill any potential algae etc. GOAL: to successfully magnify a self-sustaining light source. APPLICATIONS: -Reliable helmet lights for miners / deep sea divers -Streetlights -Emergency storm lights. Tired of reading through long web pages when browsing or in an online course? My idea is simple. To create a browser extension that converts the web output from text to sound/audio so that instead of reading it, you just listen to it.",
+      "tag": "self-sustaining",
+      "createdAt": 1094682720471,
+      "updatedAt": 1094682720471
+    },
+    {
+      "id": "16",
+      "title": "App Wallet",
+      "brief": "An app where money (cash) can be sent to. A person will have a certain amount of cash they can use and they can spend it using nfc (Apple Pay/android pay).",
+      "detail": "Especially good for kids who don’t have a bank account/debit card and money can be sent to them by their parents easily with a maximum. They would only have a certain amount of cash. I haven’t been able to find enough people to play football with since I started working. I’m sure there are others too facing similar problems. In order to address this issue I intend to develop a platform which will enable users to get in touch with people having similar sports interests around their locations. They can form a group and play together or watch matches together. Basically due to common interests they can connect with each other. To take this idea further, I plan to incorporate music, theaters, languages, dance and other hobbies too.",
+      "tag": "android",
+      "createdAt": 1442307319828,
+      "updatedAt": 1442307319828
+    },
+    {
+      "id": "17",
+      "title": "Winnerscube app",
+      "brief": "My idea is to create an app which will have winnerscube kind of game here all the products will be expensive products like iphone and xbox and the game will fucntion truthfully",
+      "detail": "Have you ever been to any amusement park and have seen people playing arcade games to win stuff toys etc? My idea is to create an app which will have winnerscube kind of game here all the products will be expensive products like iphone and xbox and the game will fucntion truthfully,we will charge 3,6 and 8 dollars for different tiers which will have different products. This idea will get people there dream products in very less rates and this game will be on skills and not luck,let me know if you like the idea. Non-banking financial institutions are those companies which are incorporated under the Companies Act, 2013 and regulated by the Reserve Bank of India. They perform similar functions as a bank but differs from them in a number of ways like organizational structure, payment-transaction system to name a few.",
+      "tag": "Mobile app",
+      "createdAt": 1199874166955,
+      "updatedAt": 1199874166955
+    },
+    {
+      "id": "18",
+      "title": "Bot Maker",
+      "brief": "Bots will be the future of internet. anything which is a app or website can be a bot. there are endless uses of bots.",
+      "detail": "There can be 1) food ordering bots 2) shopping bots 3) customer support bots 4) personal finance bots 5) marketing bots 6) supply chain management bots 7) travel industry bots and the list goes on... for now only big companies are using bots. we shall enter the public segment it would be a great business idea if we can make custom made bots for the public. Can paper be made with cork? Cork is a natural tree tissue that is renewable. Most of its use comes from wine stoppers, however, due to its qualities, it has started being used in other everyday products. To use cork to make paper paste should be not much harder than the current process of paper making. This would eventually lead to a more sustainable way of making all kinds of paper.",
+      "tag": "Bot",
+      "createdAt": 1192743359933,
+      "updatedAt": 1192743359933
+    },
+    {
+      "id": "19",
+      "title": "Howdy App",
+      "brief": "Ever wonder who is the person next to you in public. Even better if the other person has same intension.",
+      "detail": "May be you want to know about your neighbour, and your neighbour wants to know about you. But both of your are too shy to come forward and say howdy! What if we have an app, point it in a direction and see the name of all person in that direction (of course the other person needs to join the app and provide permission). I have to admit that I currently do not have a workable solution but I&apos;d love to see a water-less washing machine that scans the clothing in a few seconds (like a 3D printer) and then removes dirt and odors on the molecular level while leaving the clothing intact. I would love to put together the right team to brainstorm how to do this and then get it to production.",
+      "tag": "discovery",
+      "createdAt": 1228236487726,
+      "updatedAt": 1228236487726
+    },
+    {
+      "id": "20",
+      "title": "Travel Activity Marketplace",
+      "brief": "The travel industry is growing at a rapid pace as digital sale of online travel market is 693.91 billion USD. It means starting an online travel business is a profitable idea for aspiring entrepreneur, yes it&apos;s true but not completely.",
+      "detail": "If you are looking to start hotels and flights booking business, then you need to rethink again as competition in the travel booking industry is huge and there are lots of established market players like Expedia, Make My Trip etc. It will be really tough for a new startup to survive in the hotels and flights booking industry. So the question is, how can you be part of this growing industry? People these days travel not for sight-seeing but for fun and adventure activities. So the travel activity business idea is the hottest and profitable idea. According to stats, 80% of travel activities booking are still made offline. So if you are an aspiring entrepreneur, it will a good opportunity for you to enter in this untapped market. Launch a travel activity marketplace where people can book travel activities online for the destination they are visiting. What you need a technology solution like FunAway to build your online travel activity marketplace.",
+      "tag": "Travel",
+      "createdAt": 1472200909414,
+      "updatedAt": 1472200909414
+    },
+    {
+      "id": "21",
+      "title": "UBER for HR Services",
+      "brief": "when searching for a job, it is hard to find the right people for the job. so what about a website whereby, skilled people post their resume and employers can match with them on one platform.",
+      "detail": "There will be critical vetting to avoid fake skills being matched with employers.<br>How to make money: employers would subscribe to the service while employees will be free. also through adverts on the web/application. <br><br>am looking for a website developer to take this to the next level. interested people get in touch elcaralimited@gmail.com. A lot of college students are buying costly DSLR cameras nowadays. And on the other hand there are a lot of teenagers who want their Instagram pictures to look perfect. But they can not afford a costly camera. So, let&apos;s create a platform where amature photographers who own a good camera can be hired by those who need to have an Instagram photoshoot. The idea can also be extended to events (Bday parties etc.) where photographers are required. Because the so called &apos;professional photographers&apos; charge way too much. It will be like Uber, but for photographers.",
+      "tag": "Mobile app",
+      "createdAt": 1628268059603,
+      "updatedAt": 1628268059603
+    },
+    {
+      "id": "22",
+      "title": "Marketplace for Artist",
+      "brief": "The Gigs economy&apos;s growth has been remarkably increased over the last decade. To take a share out of this industry you don&apos;t have to an artist or performer.",
+      "detail": "Launching a marketplace is a great solution to show your presence in this industry. A marketplace where artist and performers can register themselves and party planners or any other needy person can directly hire them. <br>In past, it is done by only a few entrepreneurs. some of the top examples of such business are GigSalad, and Gigmaster. <br>It&apos;s easy to start your own marketplace because few readymade software like Vivogigs is available in the market. You can easily launch your marketplace using such software within few days. <br>Now your startup is ready and you just have to promote it well to succeed.",
+      "tag": "Artist",
+      "createdAt": 1454161623251,
+      "updatedAt": 1454161623251
+    },
+    {
+      "id": "23",
+      "title": "Couple Isle",
+      "brief": "Social Network for Couples! Sometimes it can be boring between two. Couple Isle is a kind of business card for Couples to present themselves as a Couple.",
+      "detail": "You can come closer to Couples and meet them in a fast and easy way, no matter where you are. Post one of your most beautiful Moments or tell others how you both met. iMAREC stands for Indoor, Mobile, Augmented Reality, Evacuation & Communication. Inspired by The Events at Grenfell Tower in the U.K, https://news.sky.com/story/grenfell-tragedy-inspires-schoolboys-award-winning-fire-safety-app-11242908 iMAREC Leverages Mobile Devices in Complex buildings to Connect Users and Authorities. Users will be able to directly communicate with Authority (Live Video/Audio), Users will be Alerted of any Emergencies.",
+      "tag": "Emergency",
+      "createdAt": 1338970968235,
+      "updatedAt": 1338970968235
+    },
+    {
+      "id": "24",
+      "title": "VR Titels",
+      "brief": "Recently I thought how we could make VR more immersive and I came to think about wind. Most games have weather effects or some kind of windeffects.",
+      "detail": "So I thought about an opensource App for example Vive that can be implemanted into games or can be run seperated from titels on the PC. If its implemented in a game it will detect the weather or wind conditions and will induvidualy controle the 4 to 8 fans around me to simulate the weather or wind effects in reallife. Thats pretty cool for Flight,Race,Sport or RPG Games. <br>On top u can link the App to your keybord or mouse to make it compatible to older titels (example if u press w in A race game the fan will start to spin faster and if u press s for break it will spin slower or will stop.",
+      "tag": "VR expansions",
+      "createdAt": 1549656682450,
+      "updatedAt": 1549656682450
+    },
+    {
+      "id": "25",
+      "title": "Cloud replication",
+      "brief": "ots of enterprise class customers in China are looking for a solution that can support multi cloud DR/Migration, ie a solution supports VMware/KVM to AWS/Azure/Alibaba Cloud.",
+      "detail": "libaba Cloud is the No.1 public cloud in China market. If the software supports Alibaba Cloud, there is plenty of opportunities we can deal with. People needs to buy share by inverting money to start working for the company and professionals can buy share by their expertise of work which is needed for the company. This team will be the core management after start. Then gradually the team will release share from their part to bring more employee to boom the business. And everyone will work like an owner so the company will have a great prospect.",
+      "tag": "Cloud",
+      "createdAt": 1205849787835,
+      "updatedAt": 1205849787835
+    },
+    {
+      "id": "26",
+      "title": "Service for Cryptocurrency",
+      "brief": "People are starting to utilise crypto to buy items and assets and the problem is sending and receiving money! Once you send funds to someone you can not retrieve it back without the receiver returning it back.",
+      "detail": "No way of claiming it back. Therefore a trustful escrow service will be your middle man to receive and release funds once both parties are happy! Commission based model will benefit the company. Therefore need a secure software which is transparent for both parties to view funds in wallet before releasing. Stock Share would become a social network for investors to share their stock tips, ideas, and hopes. Currently there are only stock message boards available online. With a social network traders would be able to like, comment, and view others ideas on the next big thing in the stock market. The more likes a post/idea gets the greater chance it gets trending. Trending ideas will be displayed on a homepage for users to uptick or downtick, allowing only the best ideas to be displayed.",
+      "tag": "Cryptocurrency",
+      "createdAt": 1495141593847,
+      "updatedAt": 1495141593847
+    },
+    {
+      "id": "27",
+      "title": "RateMe app",
+      "brief": "Im working on the mobile app which is called RateMe. Its kinda social networking but little bit complicated with its features. There are your information,photos and etc.",
+      "detail": "And if someone is necxt to you and He/she has got the same app,it will appear on your phone screen. And you can Rate him or her. For example you see he behave bad you can rate him instantly and his total ranking will appear on his profile. I think its gonna help people to be good and kind in our daily life. Conversations and physical contact to acknowledge that the activity is consensual and create a record of such consent (adding that is is not under duress or the influence of stimulants) or not and if at any time they want to refrain from interactions they can generate a record of the request",
+      "tag": "Mobile app",
+      "createdAt": 1415178861970,
+      "updatedAt": 1415178861970
+    },
+    {
+      "id": "28",
+      "title": "Tenant management",
+      "brief": "A property management SaaS platform that focuses on tenant/property manager communication,  managing a portfolio of properties and communication.",
+      "detail": "Property Management - Rent Collection - Lease Document Generation - User Administration - Communication. Most of the students fall victim of bad choices after their basic education and they make choice in career selection by either peer pressure or social status. Here to create a total solution to create a perfect system which can enlighten the student to best understand his/her capacities and their talent so they can make best decision for themselves and can choose a right career",
+      "tag": "Platform",
+      "createdAt": 1607437229966,
+      "updatedAt": 1607437229966
+    },
+    {
+      "id": "29",
+      "title": "Regular rides",
+      "brief": "There are many people who goes to a particular place regularly like an employee who goes to job six out of the seven days a week at the same place",
+      "detail": "A student who goes to school/tuition five or six days in a week and many more. Among them, there are many who don&apos;t have their own vehicles and has to go in buses,local trains,etc but they are very uncomfortable to be travelling in. Most of the times they are fully packed and stops too many times for letting passengers in & out which is often the cause for reaching late to our destination. What about creating an online platform where people facing the above mentioned problems has to book only once to enjoy the rides regularly by spending some amount of money monthly or weekly. The rides will be provided through four wheelers or two wheelers depending upon their affordability.The user will provide the time, pickup location,destination,number of seats and also will choose whether he wants a two wheeler or four wheeler for his/her rides and also if he/she wants a pool if he/she chooses a four wheeler. ",
+      "tag": "Regular rides",
+      "createdAt": 1033843632241,
+      "updatedAt": 1033843632241
+    },
+    {
+      "id": "30",
+      "title": "Typing game",
+      "brief": "Typing seems to be the only good way of input, with speech recognition technology and such others still not up to the mark. Most of the time on our smartphones is spent on typing (chat, email, sms etc.).",
+      "detail": "We all know how frustrating it can be to type on the small keyboard that appears at the bottom of a touch-screen. Typing seems to be the only good way of input, with speech recognition technology and such others still not up to the mark. Most of the time on our smartphones is spent on typing (chat, email, sms etc.). So why not make the experience of typing more game-like and exciting?! That could keep the smartphone users engaged and entertained. I have a few ideas. I am not well-versed with android game development. Hence I don’t know how feasible these ideas are : 1. Weapons/War keyboard : A fancy designed keyboard points a small gun at the cursor and shoots letters in place as we press the corresponding keys. A flame-thrower erases unwanted letters when we hit back space. We could also modify the cursor to look like an enemy tank/fighter jet... 2. Rain keyboard : A small cloud hovers at the top of the screen and drops letters like rain-drops. Perhaps, we could use lightning to erase letters.. To make it more fun, we can set missions and status rewards for the user (for example, typing speed, combo/streak, no. of letters typed per day, etc.). Let me know ur thoughts n ideas!",
+      "tag": "Gaming",
+      "createdAt": 1261044249505,
+      "updatedAt": 1261044249505
+    },
+    {
+      "id": "31",
+      "title": "Ticket Scalping Website",
+      "brief": "A website that would allow people to bid on tickets auction style, or have a set price that you could buy them for.",
+      "detail": "Have different categories (sports, music, etc.), some of them being more expensive than others. A featured page that would show the hottest ticket sales/auctions in your area. I want to build a management consulting firm that focuses only on startup models. I would like your opinions on the following questions: Is this a service you will hire as a startup? After from cost, why do startups not hire management consulting firms? What values would you like such a service to offer for bootstrapped startups?",
+      "tag": "Ticket",
+      "createdAt": 1418317575992,
+      "updatedAt": 1418317575992
+    },
+    {
+      "id": "32",
+      "title": "Vessel for food",
+      "brief": "The problem of containers for food and drinks marketplace is that it doesn&apos;t have much too much differents between product types. ",
+      "detail": "vessel neck. Vessels made from safe, lawful food plastic (PET,PETG,HDPE,PP, etc.). The problem of containers for food and drinks marketplace is that it doesn&apos;t have much too much differents between product types. But the main problem is that not only containers marketplace, but also a food industry doesn&apos;t have very much products concretely for group of people. Yes, you can buy drinks, healthy products and fast foods in two ordinary vessels, but it doesn&apos;t even implies an idea that this product is destined for you and your companion. So, the product itself will become an ideal addition in the food industry. It will not only bring in originality and versatility, but also easement, safety and even romanticism, because it was created for the group of people from 2 and more humans: married couples, young couples, friends, brothers, sisters. With this device, you could replace pasteboard, glassy and other wrapping for salads, fast - foods, flakes, candies, ice - cream and all drinks, including alcohol.",
+      "tag": "Alcohol",
+      "createdAt": 1077845281489,
+      "updatedAt": 1077845281489
+    },
+    {
+      "id": "33",
+      "title": "Atomic Stasis Field",
+      "brief": "An idea I had was to develop a sort of ring that would fit inside the Hydron Collider and would sending out Ray of super condensed cold beams that smashed into a centralized location",
+      "detail": "Most good family Auto Clubs reimburse you up to $750 to defend yourself with a lawyer in Traffic Court ( Allstate,Hartford,AARP,Montgomery Wards,some AAA depending on region or state.<br><br>After sitting in traffic court and witnessing the many people can&apos;t afford to pay their ticket fee at that time and have to end up on probation for months and paying all these extra fees and wasting time going down there once a month to report. I though if I provide a service that will assist individual with paying their ticket but they will have to have at least 50% of the ticket cost and I would pay the remainder balance and allow them 30 to 45 days to repay me what I paid plus an additional fee. ",
+      "tag": "Development",
+      "createdAt": 1471175895871,
+      "updatedAt": 1471175895871
+    },
+    {
+      "id": "34",
+      "title": "Pixiva",
+      "brief": "An online print shop where customers can choose a template from thousands of templates created by graphic designers, customise the template as per their needs and order printing service to us.",
+      "detail": "Customers pay for templates together with the printing services. Graphic designers get their commission and we make money through our printing service.<br>I&apos;m a freelance graphic designer myself, looking for a tech co-founder, preferably expert in PHP, Java or Python. Since I have experience in business development, digital marketing and graphic design, I can handle management, online and offline (if needed) marketing, UI/UX design and initial template creation. I would like the tech co-founder to mostly handle web programming. I&apos;m also looking for a printing partner located in the US, Canada, Australia or UK. Once I have the team ready, I&apos;d like to have an angel investor with experience in relevant fields.",
+      "tag": "Graphic",
+      "createdAt": 1103259697245,
+      "updatedAt": 1103259697245
+    },
+    {
+      "id": "35",
+      "title": "Ecommerce Cash",
+      "brief": "Cash on Delivery dominates maximum payment for ecommerce in South East Asia. In India it consists of 80% of payment and in Bangladesh it is more than 95%.",
+      "detail": "This is due to lack of trust to ecommerce companies in these region. People here like to pay after they touch and see the product they are buying. But cash on delivery creates several burden for the ecommerce companies: 1. Risky cash handling. 2. Time lag between payment receipt. Delivery companies charge extra fee for giving this service. 3. Leads to fraudulent order and more unnecessary product returns. 4. It can not be offered in remote areas. The product Model: 1. Customers download our app. Link their credit card/ debit card. They gets a unique wallet ID. 2. While checkout they select our Electronic Cash On Delivery method. 3. When the delivery man arrives with the product the delivery ask the customer for wallet ID, inputs the amount and vendor name. 4. Customer receives payment request in his wallet and confirms USP: Customers still pay when they get the product People dont need to provide credit card info in multiple websites Ecommerce get their payments much easily and have direct control on it",
+      "tag": "Cash on delivery",
+      "createdAt": 1266936895250,
+      "updatedAt": 1266936895250
+    },
+    {
+      "id": "36",
+      "title": "Sense-itivity",
+      "brief": "The bleak, stressful, and overstimulating environment of hospital rooms can negatively affect patients’ recovery time and health.",
+      "detail": "Our design question is: How might we find a low-cost solution to improve the atmosphere of hospital rooms for patients? <br><br>We are focusing on the effects of light, sound, and bringing nature inside. We&apos;re currently working on a device that projects a pattern of light on the ceiling, provides colored light around the side that correlates with sounds. For example, users would be able to use our app or remote to simulate a sunrise with yellow/orange light and the sound of wind and birds, or rain with blue light and calming rain noise. So, let&apos;s make a platform which will act a mediator in such cases. We will listen to the arguments of both sides without being biased, and then try to solve the dispute in a positive manner. The entire process will be anonymous.",
+      "tag": "Design",
+      "createdAt": 1297879056173,
+      "updatedAt": 1297879056173
+    },
+    {
+      "id": "37",
+      "title": "Guess song app",
+      "brief": "When you dont know a title of a song, but u can croon it. <br>I would like an app that tells u what song it it if u croon it.",
+      "detail": "Sometimes you are about to buy some product (usually food) at some supermarket but you are not sure if maybe at other supermarket it is cheaper, maybe there is a discoubt etc. <br>The solution I can think of is some sort of social app that lets you ask/answer other users &quot; how much does x costs at x supermarket, to solve this issue we can generate a bar code scanner which can be used to scan the bar code on the faculties ID card. once it is successfully scanned we can give a specific place for the vehicle to be parked.",
+      "tag": "Music",
+      "createdAt": 1469436524690,
+      "updatedAt": 1469436524690
+    },
+    {
+      "id": "42",
+      "title": "Digital currency",
+      "brief": "From using basic necessities such as food and meat as a currency to using gold, silver and copper as a currency until the current monetary system using bills as the currency",
+      "detail": "The form of money is changing and the time is ripe to start changing it to another.<br><br>We are now in a digital age and it is only right to start changing the form of money from physical to digital!<br>Of course, the first thing that will come up to your mind is &quot;Isn&apos;t this just Bitcoin and other Cryptocurrencies?&quot;.<br>Honestly, I don&apos;t know if we&apos;ll come up with another &quot;Cryptocurrency&quot;. I just know that hasty and incorrect way of introducing digital currencies to people will result to failure.<br><br>Yes, there are cons for this type of money but tell me something which doesn&apos;t have any?<br><br>Let&apos;s create the next form of currency.<br>If you are interested in changing our current currency",
+      "tag": "Digital",
+      "createdAt": 1227041359671,
+      "updatedAt": 1227041359671
+    },
+    {
+      "id": "43",
+      "title": "Parking Space Finder",
+      "brief": "The main purpose of this application is it will provide the facility for the customer to book parking space within few clicks.",
+      "detail": "Leftover currency is a common problem for travelers all around the world. It&apos;s the pesky small foreign coins and notes at the end of your foreign trip those are not exchangeable. So this is what you normally do: Spend at the airport Dump at home According to VISA Inc. on average travelers have 43 dollar equivalent leftover currencies. British homes are hoarding over 1.6 billion pound leftover currencies at their homes. Introducing FYPTO -www.fypto.com. Travelers can deposit their leftover currencies at different places while they are leaving a foreign country: Hotel desk airport shops tour guides taxi drivers Then via fypto app travelers can: Transfer their leftover currencies to different ewallets like PayPal, PayTM, AliPay etc Redeem for e-discounts, e-vouchers etc. ",
+      "tag": "Mobile app",
+      "createdAt": 1188507687111,
+      "updatedAt": 1188507687111
+    },
+    {
+      "id": "44",
+      "title": "Haircutting Machine",
+      "brief": "Going to the barber can be alot of effort and the haircut isn&apos;t always precise. <br><br>What if there was a helmet that would be able to give you the best haircut.",
+      "detail": "People would want to get their haircut more often and always look good. The helmet would model the individual&apos;s head. Using an electric shaver it would be able to safely cut the individuals head. Once the basics of it are developed to be able to da buzz cut the technology would be able to evolve into doing different hairstyles. I have working on application (School Management System - 95% done) which will allow the all administration work without using paper and interaction between student, teacher, parent, school staff and admin user etc. The application basically works on any popular browser, works offline and online, once connected to internet it sync everything to online. The application has powerful back-end also. Let me know if anyone is interested in this on supporting it.",
+      "tag": "Automation",
+      "createdAt": 1116326670879,
+      "updatedAt": 1116326670879
+    },
+    {
+      "id": "45",
+      "title": "Recipe Box Delivery",
+      "brief": "Everybody like to have control in their life, the same is goes for what we eat.. We love to control what goes in our food. ",
+      "detail": "Meal kit is a single resource for STYLISH, THOUGHTFUL chef-designed recipe box delivery centered around the love of ALL THINGS FOOD. Our approach is very simple, yet incredibly effective in helping you lead a healthier life. The service is designed so that people who want to be creative in the kitchen, yet are uncertain about their cooking skills – can cook restaurant quality healthy food. Expose them to seasonal, farm-fresh produce and reduce unnecessary food waste. We deliver all the fresh ingredients you need to make delicious meals in exactly the right proportions. We bring the customer fresh and high quality food at a better price. The delivery box comes with all the ingredients you need, in exactly the right proportions, to cook your recipes for the week. In addition, each delivery comes with beautifully printed recipe cards and step-by-step instructions. The only things we assume you have in your pantry are salt, pepper and butter. Each meal is designed to be well-balanced, healthy, and quick to prepare.",
+      "tag": "Cooking",
+      "createdAt": 1167905869873,
+      "updatedAt": 1167905869873
+    },
+    {
+      "id": "46",
+      "title": "Event promotion",
+      "brief": "This would be a bit like the current events functionality on facebook but would work better as it would be specifically designed for people to promote and learn about events",
+      "detail": "People could sign up as either venues (not necessarily physical venues but events organisers) or punters. Venues would pay a subscription to upload a certain number of events per month (there would be different scales for different numbers of events, as well as the option to pay per event, the idea being to make it accesible for both large scale events companies and small collectives organising gigs etc). Punters could follow venues that interested them as well as connect with their friends and see who they are following and what events they want to go to. Punters would be able to search for venues in their area as well as local events on specific dates with both a calendar and list view. Punters could also organise private events for free which would only be visible to their friends.",
+      "tag": "Social network",
+      "createdAt": 1359671552853,
+      "updatedAt": 1359671552853
+    },
+    {
+      "id": "47",
+      "title": "Yelp for Dating",
+      "brief": "I know great people with horrible dating profiles - and that&apos;s why they&apos;re still single. Worse, dating sites are based on hopeless shallow factors like your selfie game.",
+      "detail": "Most of us are horrible at marketing ourselves - either way too humble or just plain false advertising. Like it or hate it - word of mouth is the best indication. I&apos;d never make a purchase without reading the reviews. Tell me she was late, messy but fabulous in bed. Tell me he was hilarious and outgoing but terrible at making decisions. I might be looking for the very qualities you hated. But at least I get an honest review. People warn me that this could get nasty so here&apos;s my suggestion: feedback must appear on the commenters&apos; page too. That way you wouldn&apos;t want to leave a petty comment, because it would sully your reputation the most. Dating apps like this have existed, like Lulu and Stroovy, but they were exclusively for women to review men. Of course they failed - half the population felt scandalized. But meanwhile women loved it and protested en masse when they were shut down. Bring it back, but for all of us! Women, men, queers and transfolks, I want a chance to up-vote my favourite ex.",
+      "tag": "Dating",
+      "createdAt": 1373932743264,
+      "updatedAt": 1373932743264
+    },
+    {
+      "id": "48",
+      "title": "Midnight Cake delivery",
+      "brief": "My problem is that i want to send a cake to my Boyfriend at midnight between 12.00 am to 12.30 am on his Birthday! Can you suggest me?",
+      "detail": "How can i Place order online booking for midnight cake? <br>Many My friends surprise her boyfriend or husband to the Delicious Cake. I also want to place order online cake delivery in Delhi for my Boyfriend on his Birthday. Or bigger investors can&apos;t distribute their investment in small pockets (multiple projects), if they can spread their money in multiple projects they can have more chances to earn good profit from 1 of multiple projects.<br><br>We are going to resolve these problems. Project owners will list their projects on our platform (We&apos;ll verify). And small to big investors can invest in multiple unites in that building/tower. All investors will get back their share of rent (in return) from day 1 of investment. Rental values will be mentioned on projects",
+      "tag": "Delivery",
+      "createdAt": 1415502478356,
+      "updatedAt": 1415502478356
+    },
+    {
+      "id": "49",
+      "title": "Election game",
+      "brief": "Those who import a large quantity of goods from Japan. Usually, there is no consumption tax for export. All export goods from japan can be 8% Tax refund.",
+      "detail": "But normal ceae all tax refund will take manufacturer or trading company.In most cases the importer has not gained any profit. For example, importing goods of 100 thousand dollars from Japan Exporters can return $ 8000 from the government. The only necessary condition is to make a transfer, exporter to us. The profit obtained is the importer importer introducer etc. I think that it will be a business even after distributing it. The biggest problem is how to get customers. in 2 months of time we have got our state elections and in one year we have our central elections.i have a concept of e-voting game like users will download the app and once in every week they vote for their candidate and the result will be announced on sunday. this will be a fun game and also will be a trending game as the supporters of the leaders will defenately want to see their leader as number one.",
+      "tag": "Gaming",
+      "createdAt": 967006681965,
+      "updatedAt": 967006681965
+    },
+    {
+      "id": "50",
+      "title": "Speaking after death",
+      "brief": "Some people have some sensitive information about a critical situation but they don&apos;t want to release these information",
+      "detail": "Maybe because their fears or threatened by government or something else. The solution could be a service that one can record a voice or a video of the information he has and the recorded can&apos;t be released befor his death. High security must be obtained to protect the identity and info befor media released. Our memories fade away each passing day. it would be great if we can create a app which remind us to take a snap each day for upto a a month or a year and stack up all those moments to create a small video with awesome background audio looks perfect to recollect our memories and rejoice.",
+      "tag": "Social network",
+      "createdAt": 1643760785911,
+      "updatedAt": 1643760785911
+    },
+    {
+      "id": "39",
+      "title": "IngrediSmart",
+      "brief": "I have been working on an app for a few months now that keeps track of everything in your kitchen and your food preferences and will make recipe suggestions based on both factors.",
+      "detail": "Functionality could be expanded in the future, but for now I&apos;m working on the basic idea. I have several functions completed, but the project has become too big for me to work on alone. I&apos;m looking for a few good programmers that can help me finish it. I think if we have a few people working on it pretty consistently we can have it done in a couple months or less.<br><br>I am a self taught programmer who is currently in college in the United States. I have enough time to continue the project with others, so if you are interested in helping, please contact me.",
+      "tag": "Kitchen",
+      "createdAt": 1649114550330,
+      "updatedAt": 1649114550330
+    },
+    {
+      "id": "40",
+      "title": "Social Network",
+      "brief": "An app which is not only for socializing but help your network to grow by sharing knowledge with a privacy factor in mind.",
+      "detail": "An individual can chat within their network to tranfer knowledge or socialize in such a way which benefit the network in both ways. Moreover different people with same preferences can join discussion boards so as to engage them in the topics they love. The main problem that this site would solve is that the recipients doesn´t need to know each other, but can still collaborate about what to buy to for example a wedding couple. Additional features: - Maybe the same list could have several admins (the wedding example again). - Maybe a recipient could partially book a wish (I would like to by this item, but I can only chip in a certin amount and need more recipients to help) - Maybe we could add the posibility to be a recipient just through email if someone doesn´t have an facebook account",
+      "tag": "Mobile app",
+      "createdAt": 1448691810833,
+      "updatedAt": 1448691810833
+    },
+    {
+      "id": "41",
+      "title": "Smart Mirror",
+      "brief": "Nowadays, we have video calls but we are losing the one-to-one contact for the distance relative members. Also, Interviews are professionally conducted via skype call.",
+      "detail": "Think of a Hologram of a person that can be sent through the mirror to the concern location of the mirror. It will help in interacting more real. Networking protocols are to be used.<br>Plasma concept is to be used.<br>The voxels are light emitted by plasma that&apos;s created when the laser&apos;s focused energy ionizes the air. What is more important when it comes solution delivers or problem solving? It should be quick and effective right? When there is a problem there is a new opportunity. This is my idea that creates opportunity and also solves the problems. Not all applications has the tools that help production support right? So the plan is proposed or build support tool targeting various teams involved in that application. Depending on the application complexity and size the application development cost and effort varies. I am able to sell my idea and tool to the biggest organization for 0$. I am not paid for the job, but I was in a spotlight couple of days. Also, I got satisfied with awards and the appreciation.",
+      "tag": "Holography",
+      "createdAt": 1226538554929,
+      "updatedAt": 1226538554929
+    },
+    {
+      "id": "38",
+      "title": "Shoe Marketplace",
+      "brief": "A website where all buyers, sellers, and traders of old shoes are gathered into a marketplace. Old shoe sellers could showcase their shoes according to the brand.",
+      "detail": "Resellers of shoes and limited edition shoes are also welcomed and could build up their portfolio to attract customers. I have seen many facebook, twitter, instagram profiles of resellers. I&apos;ve tried to search a shoe once and it&apos;s kind of tiring to see how the profiles are so scattered and some people who are indeed selling are so hard to find. I am envisioning a website where they all gather and showcase their limited edition, used shoes and others where buyers can search with one click and find everything there. This shoe marketplace is strictly for shoes and non other than shoes, shoes of different brands but not pants, shirts or other fashionable items. I&apos;m trying to focus it on the Philippines right now, but you other kind people could help and establish this in your own respective countries.",
+      "tag": "Marketplace",
+      "createdAt": 1391093609555,
+      "updatedAt": 1391093609555
+    }
+  ],
+  "posts": [
+    {
+      "title": "How to learn react",
+      "content": "Lorem ipsum.....",
+      "likedAmount": 20,
+      "thumbnail": "https://i.ytimg.com/vi/Dorf8i6lCuk/maxresdefault.jpg",
+      "id": 1
+    },
+    {
+      "title": "How to learn GIT",
+      "content": "Lorem ipsum.....",
+      "likedAmount": 56,
+      "updatedAt": 1660828370555,
+      "id": 2
+    }
+  ]
+}
